@@ -1,0 +1,105 @@
+{
+  "boards": [
+    {
+      "name": "b2",
+      "user": 0,
+      "starred": false,
+      "created": "2024-06-05",
+      "id": 1
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": true,
+      "created": "2024-07-17",
+      "id": 2
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 3
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 4
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 5
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 6
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 7
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 8
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 9
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 10
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 11
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 12
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 13
+    },
+    {
+      "name": "Test Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-07-18",
+      "id": 14
+    }
+  ],
+  "cards": [],
+  "lists": [],
+  "users": []
+}
