@@ -1,13 +1,3 @@
-## Transmedia QA Recruitment Technical Test
-
-**Notes:**
-
-- You are free to use any popular UI test framework/tool(i.e. Selenium,Cypress)
-- You are free to use any popular API test framework/tool(i.e. Postman,Jest)
-- After complete, please upload the code in a Github repository(Please keep the repository public) and submit this [Google Form](https://forms.gle/bZEhAzZTxKpqNGPZ8)
-
-## Pre-requisite
-
 Install the app, simply clone this project and
 
 1. `npm install`
@@ -30,8 +20,23 @@ Install the app, simply clone this project and
 2. Delete the newly created list
 ```
 
-**Evaluation Criteria:**
+** Tools Used For UI and API Automation:**
 
-- Project Structure(30%)
-- Best practises and clean code(40%)
-- Workable code(30%)
+- Playwright with JavaScript For both UI and API Automation.
+
+** To run the test :
+
+- Open your terminal and write "npx playwright test UIAutomation.spec.js" (For UI Automation).
+- Open your terminal and write "npx playwright test api_test.spec.js" (For API Automation).
+
+  
+** To run the both UI & API test together :
+
+  - Open your terminal and write " npx playwright test --ui ".
+  - 
+  
+** To see the result :
+
+- Open your terminal and write "npx playwright show-report" (For Playwright Report)
+
+- Open your terminal and write " npx playwright test --ui " (For All Report)
